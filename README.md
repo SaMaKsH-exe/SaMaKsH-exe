@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
 
-- ⚡ Fun fact **I make music i guess?**
+
 
 <p align="left">
 </p>
