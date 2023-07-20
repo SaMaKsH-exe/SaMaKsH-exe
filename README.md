@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samaksh Kaushik</h1>
-<h3 align="center">Physics Stdent</h3>
+<h3 align="center">Physics Student</h3>
 
 
 
