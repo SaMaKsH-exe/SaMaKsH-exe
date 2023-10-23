@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Samaksh Kaushik</h1>
 <h3 align="center">Physics Student</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaksh-exe&label=Profile%20views&color=0e75b6&style=flat" alt="samaksh-exe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 📫 How to reach me **samaksh13kaushik@gmail.com**
 
