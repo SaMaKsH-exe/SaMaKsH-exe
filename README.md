@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
 
-- 🔭 I’m currently working on **Physics engine**
-
-- 🌱 I’m currently learning **C#**
-
 - 📫 How to reach me **samaksh13kaushik@gmail.com**
 
 - Fun fact **I make music i guess?**
