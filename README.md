@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/c/uc6gs79b0vs_3k1vjyxeteka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc6gs79b0vs_3k1vjyxeteka" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaksh-exe&show_icons=true&locale=en&layout=compact" alt="samaksh-exe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaMaKsH-exe&show_icons=true&locale=en&layout=compact" alt="samaksh-exe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samaksh-exe&show_icons=true&locale=en" alt="samaksh-exe" /></p>
 
