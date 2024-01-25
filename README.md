@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Samaksh Kaushik</h1>
-<h3 align="center">Student at Copenhagen University with a passion in Computer Science</h3>
+<h3 align="center">Physics student at Copenhagen University with a passion in Computer Science</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
