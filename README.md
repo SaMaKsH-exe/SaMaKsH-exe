@@ -17,6 +17,6 @@
 <a href="https://www.youtube.com/c/uc6gs79b0vs_3k1vjyxeteka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc6gs79b0vs_3k1vjyxeteka" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=samaksh-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaksh-exe&theme=dark&hide_border=false&include&exclude_repo=Portfolio-website&hide_progress=true)
 
