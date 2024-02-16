@@ -2,7 +2,7 @@
 <h3 align="center">Physics student at Copenhagen University with a passion in Computer Science</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe&theme=monokai" alt="samaksh-exe" /></a> </p>
 
 
 
