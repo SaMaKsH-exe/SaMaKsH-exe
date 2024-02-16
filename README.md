@@ -18,6 +18,5 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=samaksh-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samaksh-exe&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaksh-exe&exclude_repo=Portfolio-website&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaksh-exe&theme=dark&hide_border=false&include&exclude_repo=Portfolio-website&hide_progress=true)
 
