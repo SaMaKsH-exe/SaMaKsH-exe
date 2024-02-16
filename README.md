@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://www.samaksh-kaushik.live/](https://www.samaksh-kaushik.live/)
 
