@@ -3,7 +3,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaksh-exe" alt="samaksh-exe" /></a> </p>
-(https://github-profile-trophy.vercel.app/?username=samaksh-exe)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/samaksh-exea)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 All of my projects are available at [https://www.samaksh-kaushik.live/](https://www.samaksh-kaushik.live/)
