@@ -1,11 +1,14 @@
-<h2 align="left">Hi, I am Samaksh. Studying Physics at University of Copenhagen</h2>
-
-######
-
-<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif"  />
+<h2 align="left">I never sleep cuz' sleep is the cousin of death.</h2>
 
 ###
 
+<img align="right" height="100" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif"  />
+
+###
+
+<h4 align="left">Hello, my name is Samaksh. I’m currently pursuing Physics at the University of Copenhagen. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h4>
+
+###
 
 <br clear="both">
 
@@ -15,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaMaksH-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
 </div>
 
-
+###
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UC6gS79b0vs_3k1vJyxETEKA" target="_blank">
@@ -30,7 +33,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/Samaksh13Kaushik">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=samaksh13kaushik&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=samaksh13kaushik&count=4" alt="Spotify recently played"  />
   </a>
 </div>
 
