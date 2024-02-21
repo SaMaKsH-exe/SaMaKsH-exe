@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hello, my name is Samaksh. I’m currently pursuing Physics at the University of Copenhagen. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h4>
+<h3 align="left">Hello, my name is Samaksh. I’m currently pursuing Physics at the University of Copenhagen. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h4>
 
 ###
 
