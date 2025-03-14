@@ -40,3 +40,8 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email logo" />
   </a>
 </div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=flat-square" alt="Profile Views" />
+</p>
