@@ -25,15 +25,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaMaksH-exe&theme=monokai&hide_border=false&border_radius=4.5" height="150" alt="GitHub Streak" />
-</div>
-
-###
-
-
-###
-
 <div align="left">
   <a href="https://samaksh-kaushik.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
