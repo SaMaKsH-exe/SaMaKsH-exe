@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="170" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif"  />
+<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif"  />
 
 ###
 
