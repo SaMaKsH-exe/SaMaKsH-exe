@@ -16,11 +16,10 @@
 # 
 
 ###
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=SaMaksH-exe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=8&theme=monokai&hide_border=false&hide=jupyter%20notebook&order=2&layout=compact&custom_title=Languages%20Used" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=8&theme=monokai&hide_border=false&hide=jupyter%20notebook&layout=compact&custom_title=Languages%20Used" height="150" alt="languages graph" />
 </div>
 
 
