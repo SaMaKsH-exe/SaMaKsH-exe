@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
 </p>
-### 
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
