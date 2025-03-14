@@ -4,7 +4,6 @@
 
 <h3 align="left">Hello, my name is Samaksh. I’m currently pursuing Physics at the University of Copenhagen. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
 
----
 
 <h2 align="left">💻 Tech Stack</h2>
 
@@ -15,7 +14,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 <h2 align="left">📊 Stats and Trophies</h2>
 
@@ -27,15 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=10&theme=monokai&hide_border=false&hide=jupyter%20notebook&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
 </div>
 
----
-
-<h2 align="left">👀 Profile Views</h2>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
 
 <h2 align="left">🌐 Connect with Me</h2>
 
