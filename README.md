@@ -20,9 +20,9 @@
 
 <br>
 
-<p align="left">
+<h3 align="left" >
   <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
-</p>
+</h3>
 
 
 
