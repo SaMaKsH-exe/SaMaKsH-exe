@@ -6,6 +6,9 @@
 
 
 <h2 align="left">💻 Tech Stack</h2>
+
+<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -14,7 +17,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+<br>
+
 <h2 align="left"></h2>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
 </p>
