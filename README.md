@@ -36,9 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaMaksH-exe&bg_color=000000&color=00ffff&line=00ff00&point=ffffff&area=true&hide_border=true" height="200" alt="Contribution Graph" />
-</div>
 
 ###
 
