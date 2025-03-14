@@ -7,8 +7,6 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<br>
-
 <h2 align="left">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -18,8 +16,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </h2>
 
-<br>
-
 <h2 align="left">
   <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
 </h2>
@@ -27,20 +23,17 @@
 
 <h2 align="left">📊 Stats and Trophies</h2>
 
-<br>
-
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-  <br><br>
+</div>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SaMaksH-exe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=10&theme=monokai&hide_border=false&hide=jupyter%20notebook&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
 </div>
 
 
 <h2 align="left">🌐 Connect with Me</h2>
-
-<br>
 
 <p align="left">
   <a href="https://samaksh-kaushik.vercel.app/" target="_blank">
