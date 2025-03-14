@@ -7,7 +7,7 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<br>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<br>
+
 
 <h2 align="left"></h2>
 
