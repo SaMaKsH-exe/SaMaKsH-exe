@@ -1,10 +1,6 @@
 
 <h2 align="left">I never sleep cuz' sleep is the cousin of death.</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=flat-square" alt="Profile Views" />
-</p>
-
 ###
 
 <img align="right" height="150" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif"  />
@@ -21,6 +17,11 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ### 
 
+### 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=flat-square" alt="Profile Views" />
+</p>
+### 
 ###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" />
