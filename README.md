@@ -1,4 +1,9 @@
+
 <h2 align="left">I never sleep cuz' sleep is the cousin of death.</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=flat-square" alt="Profile Views" />
+</p>
 
 ###
 
@@ -42,6 +47,3 @@
 </div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=flat-square" alt="Profile Views" />
-</p>
