@@ -24,12 +24,12 @@
 <h2 align="left">📊 Stats and Trophies</h2>
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
+  <img src="https://github-readme-stats-six-eta-29.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaMaksH-exe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=10&theme=monokai&count-&private=true&hide_border=false&hide=jupyter%20notebook&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
+  <img src="https://github-readme-stats-six-eta-29.vercel.app/api?username=SaMaksH-exe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six-eta-29.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=320&langs_count=10&theme=monokai&count-&private=true&hide_border=false&hide=jupyter%20notebook&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
 </div>
 
 
