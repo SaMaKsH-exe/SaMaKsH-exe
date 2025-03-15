@@ -24,7 +24,7 @@
 <h2 align="left">📊 Stats and Trophies</h2>
 
 <div align="left">
-  <img src="https://[github-readme-stats-six-eta-29.vercel.app](https://github-profile-trophy.vercel.app)/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
+  <img src="https://github-readme-stats-six-eta-29.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
 </div>
 
 <div align="center">
