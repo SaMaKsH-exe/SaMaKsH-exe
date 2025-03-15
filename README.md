@@ -17,7 +17,7 @@
 </h2>
 
 <h2 align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats-six-eta-29.vercel.app/?username=SaMaksH-exe&label=Profile%20Views&color=FF79C6&style=for-the-badge" alt="Profile Views" />
 </h2>
 
 
