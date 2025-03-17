@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats-six-eta-29.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=350&langs_count=10&theme=monokai&count_private=true&hide_border=false&hide=jupyter%20notebook,html,css,shell&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaMaksH-exe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="left">🌐 Connect with Me</h2>
 
