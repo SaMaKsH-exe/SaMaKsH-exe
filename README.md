@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif" />
 
-<h3 align="left">Hello, my name is Samaksh. I’m currently pursuing Physics at the University of Copenhagen. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
+<h3 align="left">Hello, my name is Samaksh. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
 
 
 <h2 align="left">💻 Tech Stack</h2>
