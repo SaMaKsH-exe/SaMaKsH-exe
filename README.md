@@ -16,18 +16,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </h2>
 
-
-<h2 align="left">📊 Stats and Trophies</h2>
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaMaksH-exe&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats-six-eta-29.vercel.app/api?username=SaMaksH-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&custom_title=Github%20Stats&rank_icon=github" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-six-eta-29.vercel.app/api/top-langs/?username=SaMaksH-exe&hide_progress=true&hide_title=false&card_width=350&langs_count=10&theme=monokai&count_private=true&hide_border=false&hide=jupyter%20notebook,html,css,shell,qml,lua,makefile,roff,glsl&layout=compact&custom_title=Languages%20Used" height="150" alt="Languages Used" />
-
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
