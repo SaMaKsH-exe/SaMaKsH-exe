@@ -1,11 +1,10 @@
 <h2 align="left">I never sleep cuz' sleep is the cousin of death.</h2>
 
-<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1024/0*ulz5mvlcGo5EDpaY.gif" />
 
 <h3 align="left">Hello, my name is Samaksh. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
 
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <h2 align="left">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
