@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </h2>
 
+
+![Top Languages by Commits](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=SaMaKsH-exe)
+
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
