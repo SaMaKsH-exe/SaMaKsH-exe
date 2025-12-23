@@ -16,7 +16,6 @@
 </h2>
 
 
-![Top Languages by Commits](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=SaMaKsH-exe)
 
 <h2 align="left">🌐 Connect with Me</h2>
 
