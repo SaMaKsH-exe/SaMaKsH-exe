@@ -33,3 +33,5 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email logo" />
   </a>
 </p>
+
+![](https://github-contributor-stats.vercel.app/api?username=SaMaKsH-exe&limit=5&theme=dark&combine_all_yearly_contributions=true)
