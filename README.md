@@ -3,7 +3,6 @@
 
 <h3 align="left">Hello, my name is Samaksh. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -14,9 +13,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://tenor.com/en-GB/view/watch-dogs-gif-26245798"  />
+<div class="tenor-gif-embed" data-postid="26245798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/watch-dogs-gif-26245798">Watch Dogs GIF</a>from <a href="https://tenor.com/search/watch+dogs-gifs">Watch Dogs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
