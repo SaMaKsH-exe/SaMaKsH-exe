@@ -13,7 +13,9 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="26245798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/watch-dogs-gif-26245798">Watch Dogs GIF</a>from <a href="https://tenor.com/search/watch+dogs-gifs">Watch Dogs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<br clear="both">
+
+<img align="right" height="150" src="https://tenor.com/en-GB/view/watch-dogs-gif-26245798"  />
 
 ###
 
@@ -50,6 +52,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
