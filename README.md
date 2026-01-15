@@ -1,4 +1,4 @@
-<h2 align="left">I never sleep cuz' sleep is the cousin of death.</h2>
+
 
 <img align="right" height="150" src="https://media1.tenor.com/m/uPupe5DaXakAAAAd/watch-dogs.gif" />
 <h3 align="left">Hello, my name is Samaksh. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
