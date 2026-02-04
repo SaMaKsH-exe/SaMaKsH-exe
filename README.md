@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c26f37c-9de7-4174-8be9-243d631d3f11" />
 
 <img align="right" height="150" src="https://media1.tenor.com/m/uPupe5DaXakAAAAd/watch-dogs.gif" />
 <h3 align="left">Hello, my name is Samaksh. I have a keen interest in Computer Science, particularly in the field of machine learning. I’m constantly seeking to learn and discover new and exciting things to broaden my knowledge.</h3>
