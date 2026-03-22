@@ -30,6 +30,7 @@
 
 <img src="github-readme-stats-alpha-sepia-82.vercel.app
 /api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
+
   <img src="github-readme-stats-alpha-sepia-82.vercel.app
 /api/top-langs/?username=SaMaKsH-exe&theme=tokyonight&layout=compact&hide=shell,lua,css,html&count_private=true&hide_progress=true" width="45%" height="195px" alt="Top Languages" />
 </div>
