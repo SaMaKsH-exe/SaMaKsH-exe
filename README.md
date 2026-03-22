@@ -24,6 +24,13 @@
   </nobr>
 </div>
 
+### 📊 GitHub Stats:
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaMaKsH-exe&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=tokyonight&layout=compact" width="45%" height="195px" alt="Top Languages" />    
+</div>
+
 <hr/>
 
 <div align="left">
