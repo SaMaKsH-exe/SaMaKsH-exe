@@ -30,7 +30,7 @@
 
 <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=tokyonight&layout=compact&hide=shell,lua,css,html,jupyter%20notebook&count_private=true&hide_progress=true" width="45%" height="195px" alt="Top Languages" />
+  <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=tokyonight&layout=compact&hide=shell,lua,css,html,jupyter%20notebook,scss,glsl&count_private=true&hide_progress=true" width="45%" height="195px" alt="Top Languages" />
 </div>
 
 <hr/>
