@@ -28,9 +28,9 @@
 ### 📊 GitHub Stats:
 <div align="center">
 
-<img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&tdark#gh-dark-mode-only&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
+<img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&dark#gh-dark-mode-only&layout=compact&hide=shell,lua,css,html,jupyter%20notebook,scss,glsl&count_private=true&hide_progress=true&langs_count=8" width="45%" height="195px" alt="Top Languages" />
+  <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=dark#gh-dark-mode-only&layout=compact&hide=shell,lua,css,html,jupyter%20notebook,scss,glsl&count_private=true&hide_progress=true&langs_count=8" width="45%" height="195px" alt="Top Languages" />
 </div>
 
 <hr/>
