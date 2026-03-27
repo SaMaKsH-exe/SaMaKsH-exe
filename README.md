@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" alt="Arch Hyprland Setup" src="https://github.com/user-attachments/assets/7c26f37c-9de7-4174-8be9-243d631d3f11" />
+  <img width="100%" alt="Arch Hyprland Setup" src="https://github.com/user-attachments/assets/6f1a6c6d-9709-405b-b62c-41e469f2a190)" />
+
 
 
   <h1>Hi, I'm Samaksh </h1>
@@ -40,5 +41,3 @@
   <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=transparent&rank_icon=github" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=transparent&layout=compact&hide=shell,lua,css,html,jupyter%20notebook,scss,glsl,dockerfile&count_private=true&hide_progress=true&langs_count=8" width="48%" alt="Top Languages" />
 </div>
-
-  ![capture-2026-02-04_02-01-26](https://github.com/user-attachments/assets/6f1a6c6d-9709-405b-b62c-41e469f2a190)
