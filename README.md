@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=transparent&rank_icon=github" width="48%" alt="GitHub Stats" />
