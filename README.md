@@ -9,7 +9,7 @@
 
   <p>
     I have a keen interest in STEM, particularly in the fields of physics,
-    engineering, and machine learning. I am constantly seeking to learn,
+    engineering, machine learning and linux (i use arch btw). I am constantly seeking to learn,
     discover, and build new things to broaden my knowledge.
   </p>
 
