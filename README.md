@@ -55,7 +55,7 @@
     width="48%"
   />
   <img
-    src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=transparent&layout=compact&hide=DTrace,shell,TeX,lua,css,html,jupyter%20notebook,scss,glsl,dockerfile&count_private=true&hide_progress=true&langs_count=8"
+    src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=transparent&layout=compact&hide=Makefile,DTrace,shell,TeX,lua,css,html,jupyter%20notebook,scss,glsl,dockerfile&count_private=true&hide_progress=true&langs_count=8"
     width="48%"
   />
 </div>
