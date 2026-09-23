@@ -1,61 +1,63 @@
-<div align="center">
-<img
-  width="100%"
-  alt="Arch Hyprland Setup"
-  src="https://github.com/user-attachments/assets/6f1a6c6d-9709-405b-b62c-41e469f2a190"
-/>
+<h1 align="center">Hi there, I'm Bhavya 👋</h1>
+<h3 align="center">Bioinformatician | Exploring the code of life 🧬</h3>
 
-  <h1>Hi, I'm Samaksh</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=120&section=header&text=Exploring%20the%20code%20of%20life%20🧬&fontSize=24&fontColor=39d353&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
-  <p>
-    I have a keen interest in STEM, particularly in the fields of physics,
-    engineering, machine learning and linux (i use arch btw). I am constantly seeking to learn,
-    discover, and build new things to broaden my knowledge.
-  </p>
-
-  <div>
-    <a href="https://www.youtube.com/@AKSHAR." target="_blank">
-      <img
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        alt="YouTube"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/samaksh-kaushik/" target="_blank">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghing21&label=Profile%20Views&color=58a6ff&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### Tech Stack
+### 🔬 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+- 🔭 Currently working on **mitochondrial evolution**
+- 🧪 Interested in genomics, phylogenetics, and evolutionary biology
+- 🌱 Always learning new tools and pipelines for computational biology
+- 💬 Ask me about sequence analysis, evolutionary genomics, or Python for bioinformatics
+- 📫 Reach me at **bhavyagudhka2001@gmail.com**
+- ⚡ Fun fact: I speak fluent FASTA 🧬
 
 ---
 
-### GitHub Stats
+### 🧫 Bioinformatics Focus
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-alpha-sepia-82.vercel.app/api?username=SaMaKsH-exe&count_private=true&show_icons=true&theme=transparent&rank_icon=github"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-alpha-sepia-82.vercel.app/api/top-langs/?username=SaMaKsH-exe&theme=transparent&layout=compact&hide=Makefile,DTrace,shell,TeX,lua,css,html,jupyter%20notebook,scss,glsl,dockerfile&count_private=true&hide_progress=true&langs_count=8"
-    width="49%"
-  />
-</div>
+<p align="center">
+  <img src="https://placehold.co/700x300/0d1117/39d353?text=Phylogenetic+Tree+%2F+Genome+Map" alt="bioinformatics visual placeholder" width="80%"/>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> &nbsp;&nbsp;
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45"/></a> &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a> &nbsp;&nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghing21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ghing21&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavya-gudhka" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:bhavyagudhka2001@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" height="35" width="45" />
+  </a>
+</p>
